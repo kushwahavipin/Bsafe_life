@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Women Safety</string>
+    <string name="add">Save</string>
+    <string name="delete">Delete</string>
+    <string name="view">SAVE PHONE NUMBER</string>
+    <string name="delete_info">To Delete A Number Enter The Number And Press Delete Button</string>
+    <string name="login">Login</string>
+    <string name="Sign_up">Sign_up</string>
+    <string name="user_id">User Name / Mobile No</string>
+    <string name="pass">Password</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile No</string>
+    <string name="register">Register</string>
+    <string name="title">Human Safety</string>
+    <string name="tips">Women Safety Tips</string>
+    <string name="ins1">Please Follow The Steps To Steps To Activate Your App</string>
+    <string name="ins2">1. Register Your Account. \n 2. Add To Your Guardian Number. \n 3. Always Maintain Your Working Connection. \n 4. Long Press the Emergency Button In The Case Of Emergency Situation.
+        \n 5. Click Sos For More Option
+    </string>
+    <string name="tips1">ARM YOURSELF WITH THESE 11 SAFETY TIPS FOR WOMEN</string>
+    <string name="tips2">
+        1. Always be aware. While going through your day to day duties of work, kids, school run, dinner – all those fun life admin tasks that never stop, keep awareness top of mind. Regularly check on your home security and look for anything that’s out of place, don’t forget to arm your alarm when leaving in a rush, and always take note of your surroundings.
+\n
+        2. Never pull over when someone points at your car, claiming that something is wrong. Suspects use this tactic to get you to open your window or get out of the car. Rather drive to the nearest garage or shop where you will be safe to have a look yourself or can ask for assistance.
+\n
+3. Always remember to lock your doors when driving. Suspects often hijack or smash-and-grab motorists stopped at a red traffic light. Don’t make it any easier for them by simply leaving your doors unlocked.
+\n
+4. Limit distractions in parking lots. Tuck your phone safely in your purse so you can keep your head up to look around and pay attention to your surroundings. If it’s late and you feel uneasy or parked far from the entrance, ask a security guard to escort you to your car. If you reach your car and notice that it has a flat tire, back away immediately and return to the shop from where you can safely ask for assistance or call for help.
+\n
+5. Never walk alone, especially at night. If it can’t be helped, take all possible precautions to ensure your safety. Keep your phone out of sight and refrain from listening to music, as you won’t be able to hear someone approaching you from behind.
+\n
+6. Make eye contact with other pedestrians. By doing this you send a strong defensive signal that you see them and could identify them if necessary. Look them in the eye and give a polite nod to acknowledge them.
+\n
+7. Scream at the top of your lungs and twist your arm up and down if someone tries to grab you. Do anything you can to draw as much attention to yourself as possible.
+\n
+8. Hit the body parts that are the most tender if you have to defend yourself against an attacker. You want to aim at whatever is going to hurt the most, regardless of the attacker’s strength and size. These are vulnerable areas like the eyes, nose, throat, groin and shin.
+\n
+9. Never trust a stranger based on his appearance. Most offenders don’t even look like criminals but your friendly next door neighbour, and are sometimes dressed quite well.
+\n
+10. Be mindful of the way you dress, especially if you will be walking alone. Shoes like wedges and high heels, and tight skirts, will be hard to run in while scarves and long necklaces are easy to grab. Play a scenario through your mind and try to determine if you would be able to easily defend yourself with what you’re wearing.
+\n
+11. Never leave your handbag unattended. Purse snatchers are very sly and will grab your bag and disappear the moment you turn your back. Being a woman you are most probably prepared for any situation and likely carry some form of documentation containing your physical address. That information in the wrong hands could put you at further risk.
+    </string>
+</resources>
